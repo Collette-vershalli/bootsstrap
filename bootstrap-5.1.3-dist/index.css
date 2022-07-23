@@ -1,0 +1,11 @@
+
+@media only screen  and (max-width: 480px){
+.one{
+    color: blue;
+}
+}
+    
+@media only screen and  (max-width: 960px){
+    .one{
+        color: black;
+    }
